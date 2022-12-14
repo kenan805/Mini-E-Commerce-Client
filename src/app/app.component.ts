@@ -10,3 +10,5 @@ export class AppComponent {
   title = 'ETicaretClient';
 }
 
+
+
